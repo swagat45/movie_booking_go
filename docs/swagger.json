@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Movie booking backend intern assignment implemented in Go.",
+        "title": "Movie Ticket Booking API (Go)",
+        "contact": {},
+        "version": "1.0"
+    },
+    "basePath": "/api",
+    "paths": {}
+}

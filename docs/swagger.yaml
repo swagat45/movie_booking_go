@@ -1,0 +1,8 @@
+basePath: /api
+info:
+  contact: {}
+  description: Movie booking backend intern assignment implemented in Go.
+  title: Movie Ticket Booking API (Go)
+  version: "1.0"
+paths: {}
+swagger: "2.0"
